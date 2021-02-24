@@ -7,4 +7,5 @@ onViewStateRestored(Bundle) : digunakan untuk menyatakan informasi  kepada fr
 (layar) dari tampilan fragment secara hirarki yang telah dipulihkan.
 
 
-(https://github.com/1nt4ni/Fragment/blob/master/IMG_20210224_080935.jpg)
+![alt text](https://github.com/1nt4ni/Fragment/blob/master/IMG_20210224_080935.jpg)
+![alt text](https://github.com/1nt4ni/Fragment/blob/master/IMG_20210224_080948.jpg)
